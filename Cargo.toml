@@ -1,0 +1,10 @@
+[package]
+name = "aoc-2024"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.93"
+regex = "1.11.1"
+thiserror = "2.0.6"
+crossbeam = "0.8.4"
